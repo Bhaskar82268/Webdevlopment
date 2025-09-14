@@ -1,0 +1,13 @@
+
+.mainboxx{
+display: flex;
+
+justify-content: center;
+flex-direction :column;
+}.mainbox{
+display: flex;
+
+justify-content: center;
+flex-direction :row;
+
+}
